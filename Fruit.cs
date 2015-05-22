@@ -10,6 +10,7 @@ namespace QueryingFruit
 
     class Fruit
     {
+        //adding comment
         private const int DEFAULT_DIAM = 5;
 
         private string name;
