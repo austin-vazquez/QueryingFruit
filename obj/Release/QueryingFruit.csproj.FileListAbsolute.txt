@@ -1,0 +1,8 @@
+c:\users\vazquez\documents\visual studio 2013\Projects\Fundamentals\QueryingFruit\bin\Release\QueryingFruit.exe.config
+c:\users\vazquez\documents\visual studio 2013\Projects\Fundamentals\QueryingFruit\bin\Release\QueryingFruit.exe
+c:\users\vazquez\documents\visual studio 2013\Projects\Fundamentals\QueryingFruit\bin\Release\QueryingFruit.pdb
+c:\users\vazquez\documents\visual studio 2013\Projects\Fundamentals\QueryingFruit\obj\Release\QueryingFruit.exe
+c:\users\vazquez\documents\visual studio 2013\Projects\Fundamentals\QueryingFruit\obj\Release\QueryingFruit.pdb
+c:\users\vazquez\documents\visual studio 2013\Projects\Fundamentals\QueryingFruit\obj\Release\QueryingFruit.csprojResolveAssemblyReference.cache
+c:\users\vazquez\documents\visual studio 2013\Projects\Fundamentals\QueryingFruit\bin\Release\nunit.framework.dll
+c:\users\vazquez\documents\visual studio 2013\Projects\Fundamentals\QueryingFruit\bin\Release\nunit.framework.xml
